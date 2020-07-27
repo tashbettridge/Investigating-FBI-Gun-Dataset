@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img max-height=200 height=200 src="https://github.com/ciph3rwoman/Communicate-Data-Findings/blob/master/FordGoBike.jpg"/>
+<img max-height=200 height=200 src=""/>
 </p>
 
 The data that is used in this project is retrieved from the FBI's National Instant Criminal Background Check System. 
