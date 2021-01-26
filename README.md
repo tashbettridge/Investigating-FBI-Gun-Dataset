@@ -18,8 +18,10 @@ Python, NumPy, Pandas and Matplotlib.
  In Jupyter, Open and upload the following files:
  - US.Census Data.CSV
  - gun_data.xlsx
+ - Investigate_a_Dataset.ipynb
+
  
-# Reference:
+# References:
 
 https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year.pdf/view
 
